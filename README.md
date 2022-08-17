@@ -1,5 +1,10 @@
 # profile
-- This is a profile page.
+- This is a minimal and simple profile page.
+
+# Built With
+- HTML5
+- Materialize
+- JavaScript
 
 # Reference
 - page layout: [al-folio](https://github.com/zlinao/zlinao.github.io)
