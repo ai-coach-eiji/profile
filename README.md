@@ -1,5 +1,5 @@
 # profile
-- This is a minimal and simple profile page.
+- This is a minimal and simple [profile page](https://ai-coach-eiji.github.io/profile/).
 
 # Built With
 - HTML5
