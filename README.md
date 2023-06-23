@@ -11,4 +11,4 @@
 - page layout2: [materialize](https://materializecss.com/)
 
 # Author
-Eiji Kitajima （[https://twitter.com/1220castillo](https://twitter.com/1220castillo)）
+Eiji Kitajima （[https://twitter.com/1220_eiji](https://twitter.com/1220_eiji)）
